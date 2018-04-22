@@ -19,3 +19,6 @@ Note that the definition of the operation as a function implies
 
 4. Clousure: For any x, y \in _G_, x\*y is also in _G_
 
+### Abelian group:
+
+The group _G_ is **abelian** if for any x, y \in _G_, xy = yx
